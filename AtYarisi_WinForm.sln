@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtYarisi_WinForm", "AtYarisi_WinForm\AtYarisi_WinForm.csproj", "{82A369B4-C9D9-4FCA-A39C-BC94BB11D33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreUretme", "SifreUretme\SifreUretme.csproj", "{0A055120-8683-46B3-AC79-B16000B6B8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A369B4-C9D9-4FCA-A39C-BC94BB11D33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A369B4-C9D9-4FCA-A39C-BC94BB11D33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A369B4-C9D9-4FCA-A39C-BC94BB11D33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A369B4-C9D9-4FCA-A39C-BC94BB11D33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A055120-8683-46B3-AC79-B16000B6B8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A055120-8683-46B3-AC79-B16000B6B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A055120-8683-46B3-AC79-B16000B6B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A055120-8683-46B3-AC79-B16000B6B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A25E61-0784-459C-9FA0-BD8CAA912E90}
+	EndGlobalSection
+EndGlobal
